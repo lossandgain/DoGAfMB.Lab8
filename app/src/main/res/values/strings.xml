@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab8</string>
+    <string name="Anemone_desc">Ветреница дубравная (Anemone nemorosa)</string>
+    <string name="Epimedium_desc">Горянка (Epimedium)</string>
+    <string name="Glanduligera_desc">Зубянка железистая (Cardamine glanduligera)</string>
+    <string name="Helleborus_desc">Морозник (Helleborus)</string>
+    <string name="Hepatica_desc">Печёночница (Hepatica)</string>
+    <string name="Pratensis_desc">Сердечник луговой (Cardamine pratensis)</string>
+    <string name="Trillium_desc">Триллиум (Trillium)</string>
+</resources>
